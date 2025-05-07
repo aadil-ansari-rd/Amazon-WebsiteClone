@@ -1,6 +1,3 @@
-# Amazon-WebsiteClone
-Here's a professional `README.md` file you can use for your **Amazon Website Clone** project:
-
 ```markdown
 # 🛒 Amazon Website Clone
 
