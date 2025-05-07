@@ -31,15 +31,8 @@ This project replicates the visual design and layout of the official Amazon home
 - **JavaScript** (Basic)
 - **Responsive Design**
 
----
 
-## 📸 Screenshots
 
-![Screenshot](./box1_image.jpg)
-
-> More images available in the project directory.
-
----
 
 ## 🚀 Getting Started
 
