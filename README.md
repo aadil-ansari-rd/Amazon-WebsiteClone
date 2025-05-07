@@ -20,7 +20,7 @@ This project replicates the visual design and layout of the official Amazon home
 
 
 
-````
+
 
 ---
 
@@ -48,7 +48,7 @@ To view the project locally:
 1. Clone the repository  
    ```bash
    git clone https://github.com/aadil-ansari-rd/Amazon-WebsiteClone.git
-````
+
 
 2. Open the `index.html` file in your browser.
 
