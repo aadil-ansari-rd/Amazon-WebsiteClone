@@ -14,15 +14,6 @@ This project replicates the visual design and layout of the official Amazon home
 - Responsive design principles
 - Basic interactivity with JavaScript (if applicable)
 
----
-
-## 📁 Project Structure
-
-
-
-
-
----
 
 ## 🧰 Technologies Used
 
