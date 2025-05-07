@@ -22,17 +22,6 @@ This project replicates the visual design and layout of the official Amazon home
 
 ```
 
-Amazon-WebsiteClone/
-│
-├── index.html            # Main HTML file
-├── style.css             # Stylesheet
-├── amazon\_logo.png       # Amazon logo
-├── hero\_image.jpg        # Hero section image
-├── box1\_image.jpg        # Product/category images
-├── box2\_image.jpg
-├── ...
-└── box8\_image.jpg
-
 ````
 
 ---
@@ -88,5 +77,4 @@ This project is for educational purposes only and is not affiliated with Amazon.
 
 ```
 
-Would you like a version of this README with badges, live demo links, or deployment instructions (e.g., GitHub Pages)?
 ```
