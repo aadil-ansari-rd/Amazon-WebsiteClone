@@ -1,9 +1,7 @@
-```markdown
+
 # 🛒 Amazon Website Clone
 
 A fully responsive clone of the Amazon homepage built using **HTML**, **CSS**, and **JavaScript**. This project was created as part of my learning journey while exploring front-end web development.
-
-![Amazon Clone Hero](./hero_image.jpg)
 
 ---
 
@@ -20,7 +18,7 @@ This project replicates the visual design and layout of the official Amazon home
 
 ## 📁 Project Structure
 
-```
+
 
 ````
 
